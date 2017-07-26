@@ -11,4 +11,4 @@ npm install ps-react-nwinger
 ```
 
 # Docs
-[Component documentation] (https://nwinger.github.io/ps-react-nwinger/)
+[Component documentation](https://nwinger.github.io/ps-react-nwinger/)
